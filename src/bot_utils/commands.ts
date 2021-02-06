@@ -1,7 +1,7 @@
 export const commands = {
     START:          'start',
     MIRRORTAR:      'mirrorTar|mt',
-    MIRROR:         'mirror|m',
+    MIRROR:         'mir|m',
     MIRROR_STATUS:  'mirrorStatus|ms',
     LIST:           'list|l',
     GET_FOLDER:     'getFolder|gf',
@@ -13,7 +13,7 @@ export const commands = {
     ID:             'id',
     MF:             'mf',
     TAR:            'tar|t',
-    UNZIP_MIRROR:   'unzipMirror|um',
+    UNZIP_MIRROR:   'unzipMir|um',
     COUT:           'count|cnt',
     HELP:           'help|h',
     AUTHORIZE:      'authorize|a',
